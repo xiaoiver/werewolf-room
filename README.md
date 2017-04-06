@@ -21,8 +21,7 @@ npm run dev
 
 ```
 
-![首页](/screenshot/s1.png?raw=true "首页" | width=320)
-
-![游戏中](/screenshot/s2.png?raw=true "游戏中" | width=320)
+<img src="/screenshot/s1.png?raw=true" alt="首页" width="320">
+<img src="/screenshot/s2.png?raw=true" alt="游戏中" width="320">
 
 
